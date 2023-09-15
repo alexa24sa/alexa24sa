@@ -7,7 +7,7 @@ My name is Alexa // soy Alexa
 - 🤔 I’m looking for help to improve Python, Google Cloud/ Azure and network skills.
 - 💬 Ask me about any doubt you can have of my profile
 - 📫 How to reach me: find me in my ig: @alexa24sa, twitter/X: @alexa24sa
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>[Alexandra Bautista Coello](www.linkedin.com/in/alexandra-bautista-coello-039608283)
+- [Alexandra Bautista Coello](www.linkedin.com/in/alexandra-bautista-coello-039608283) <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 - 😄 Pronouns: Her/she
 - ⚡ Fun fact: I like so much SpongeBob SquarePants! 🧽
 
