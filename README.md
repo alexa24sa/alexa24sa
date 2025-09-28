@@ -1,6 +1,13 @@
 # 💫 About Me:
 ### Hi there // hola mundo 👋<br>My name is Alexa // soy Alexa<br><br>- 🔭 I’m currently working on finishing my university career and now I'm working as a programming and developing teacher of highschool/ midschool girls in Tecnolochicas!<br>- 🌱 I’m currently learning to get better in my programming skills.<br>- 👯 I’m looking to collaborate on college projects to improve in the programming and something related with Innovation and technology area.<br>- 🤔 I’m looking for help to improve Python, Google Cloud/ Azure and network skills.<br>- 💬 Ask me about any doubt you can have of my profile<br>- 😄 Pronouns: Her/she<br>- ⚡ Fun fact: I like so much SpongeBob SquarePants! 🧽
 
+## SNAKE
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cheeto24sa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alexandra-bautista-coello-039608283) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/alexa24sa) 
